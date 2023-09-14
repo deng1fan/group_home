@@ -44,6 +44,9 @@ foot:
     - "海内存知己"
     - "天涯若比邻"
 
+cv:
+  enable: false
+
 links: # 朋友
   - name: "Theme Tranquility"
     url: https://github.com/hooozen/hexo-theme-tranquility
